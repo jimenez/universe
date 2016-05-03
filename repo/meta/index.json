@@ -256,7 +256,7 @@
       }
     },
     {
-      "currentVersion":"0.3.1-0.1",
+      "currentVersion":"0.4.0-0.1",
       "description":"A dynamic linker for microservices.",
       "framework":false,
       "name":"linkerd",
@@ -272,7 +272,8 @@
         "rpc"
       ],
       "versions":{
-        "0.3.1-0.1":"0"
+        "0.3.1-0.1":"0",
+        "0.4.0-0.1":"1"
       }
     },
     {
@@ -357,7 +358,7 @@
       }
     },
     {
-      "currentVersion":"0.3.1-0.1",
+      "currentVersion":"0.4.0-0.1",
       "description":"A service for managing name delegation for microservices.",
       "framework":false,
       "name":"namerd",
@@ -373,7 +374,8 @@
         "rpc"
       ],
       "versions":{
-        "0.3.1-0.1":"0"
+        "0.3.1-0.1":"0",
+        "0.4.0-0.1":"1"
       }
     },
     {
